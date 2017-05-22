@@ -1,0 +1,17 @@
+{
+  "name": "textnodewatch",
+  "version": "0.0.1",
+  "description": "",
+  "repository": "ssh://git@github.com/drillbits/textnodewatch",
+  "author": "drillbits <neji@drillbits.jp>",
+  "license": "Apache-2.0",
+  "bin": {
+    "textnodewatch": "./bin/textnodewatch"
+  },
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "request": "^2.81.0",
+    "vo": "^4.0.2",
+    "yargs": "^8.0.1"
+  }
+}
