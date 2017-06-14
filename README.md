@@ -7,7 +7,7 @@ watch text node and notify to slack using electron.
 - node
 - yarn
 
-## Getting stated
+## Getting started
 
 ```
 $ yarn install
